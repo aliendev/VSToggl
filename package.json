@@ -16,6 +16,14 @@
       {
         "command": "vstoggl.helloWorld",
         "title": "Hello World"
+      },
+      {
+        "command": "vstoggl.fetchTogglMe",
+        "title": "Fetch Toggl User Info"
+      },
+      {
+        "command": "vstoggl.showPanel",
+        "title": "Show Toggl Panel"
       }
     ]
   },
