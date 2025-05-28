@@ -19,7 +19,7 @@ Please describe the feature you would like to request.
 
 ---
 
-### 🛠️ Technical Notes (optional)
+### 🛠️ Technical Notes
 Add implementation details, affected components, libraries, or anything useful for devs.
 
 ---
@@ -31,7 +31,7 @@ How should this be verified or tested?
 
 ### 🔗 Related Issues / Designs
 - Depends on: #
-- Designs: (Figma link or screenshots)
+- Designs: (screenshots)
 
 ---
 

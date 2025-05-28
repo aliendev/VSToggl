@@ -13,9 +13,9 @@ What does this PR do? Provide a brief, high-level overview.
 
 ## 🧪 Testing
 
-How was this tested?  
-- [ ] Unit tests  
-- [ ] Manual testing  
+How was this tested?
+- [ ] Unit tests
+- [ ] Manual testing
 - [ ] Other (describe)
 
 Include steps if manual testing is required.
@@ -30,8 +30,8 @@ Add any UI changes or visual diffs.
 
 ## 🔗 Related Issues / PRs
 
-Closes #  
-Related to #  
+Closes #
+Related to #
 
 ---
 

@@ -11,6 +11,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - yo vs code extension generated code
 - added ticket templates for github issues
 - added a basic template for pull requests
+- added an .editorconfig file to make edits consistent
 
 ### Changed
 
