@@ -1,6 +1,7 @@
-# vstoggl README
+# VSToggl README
 
-This is the README for your extension "vstoggl". After writing up a brief description, we recommend including the following sections.
+VSToggl is a VS Code extension to enable you to make use of Toggl Tracker without leaving the editor.
+
 
 ## Features
 

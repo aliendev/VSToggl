@@ -9,12 +9,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Added
 - yo vs code extension generated code
+- added ticket templates for github issues
+- added a basic template for pull requests
 
 ### Changed
 
 
 ### Removed
 - Hello World was removed from the default yo generated code
+
 
 
 ## [1.0.1] - 2025-06-06
